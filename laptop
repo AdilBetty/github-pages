@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lost & Found - Laptop Owner Info</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        .container { max-width: 500px; margin: auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; }
+        h2 { color: #333; }
+        p { font-size: 18px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Lost Laptop? Contact the Owner</h2>
+        <p><strong>Owner Name:</strong> Adil Betty</p>
+        <p><strong>Email:</strong> adilbetty77@gmail.com</p>
+        <p><strong>Phone:</strong> +44 744466 1752</p>
+        <p><strong>Serial Number:</strong> LPT-123456789</p>
+        <p>If found, please contact the owner immediately.</p>
+    </div>
+</body>
+</html>
+
